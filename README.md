@@ -32,8 +32,7 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 3. [Essentials](#essentials)
 4. [Integrations](#integrations)
 5. [Templates](#templates)
-6. [Products](#products)
-7. [Videos](#videos)
+6. [Videos](#videos)
 
 ## Applications
 - [EdgeDB + NestJS](https://github.com/tdolsen/edgedb-nestjs-example) - A NestJS application that uses EdgeDB and exposes a GraphQL API.
