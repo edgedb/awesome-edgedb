@@ -68,10 +68,6 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 ## Templates
 - [Create T3-EdgeDB App](https://github.com/PastelStoic/create-t3-edgedb-app) - The [T3 stack](https://init.tips/), but the database of choice is EdgeDB.
 
-## Products
-- [Credal](https://www.credal.ai/) - Credal.ai is the safest way to use AI at the enterprise. *The field of AI is moving fast and execution speed is a competitive advantage. EdgeDB lets us rapidly adapt our data model, handle nuanced access/security rules, and enforce strong typing all the way from query to front-end, so that our engineers can confidently drive big product iterations*.
-- [Healthstack](https://www.healthstack.app/) - Crowdsource your optimal health stack. Healthstack leverages almost all of EdgeDB's features, from multi-level inheritance to conditional triggers.
-
 ## Videos
 - [Build a Next.js blog backed by EdgeDB](https://www.youtube.com/watch?v=G17Xc8cnSI0)
 - [Colin McDonnell - Zod, tRPC, EdgeDB](https://www.youtube.com/watch?v=WVRLim8A8-I)
