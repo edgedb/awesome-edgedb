@@ -44,6 +44,7 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 - [Remix K-Hip Hop Stack](https://github.com/AceroM/khiphop-stack) - An application built with Remix & EdgeDB and deployed using Netlify.
 - [SvelteKit Blog App](https://github.com/pro7tech/sveltekit-blog-app) - A SvelteKit blog app built with SvelteKit and EdgeDB.
 - [Twitter Clone](https://github.com/pokedotdev/twitter-clone) - A Twitter clone built using Remix, UnoCSS and EdgeDB.
+- [QuanWeb](https://github.com/hongquan/QuanWeb) - A production personal website with Rust (Axum framework) + EdgeDB at the backend, and various tech for frontend.
 
 ## Articles
 - [Chit-chatting with EdgeDB docs via ChatGPT and pgvector](https://www.edgedb.com/blog/chit-chatting-with-edgedb-docs-via-chatgpt-and-pgvector)
