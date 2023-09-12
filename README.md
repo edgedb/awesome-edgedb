@@ -64,6 +64,7 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 - [EdgeDB Grafana Backend](https://github.com/washed/edgedb-grafana-backend) - A Grafana backend plugin allowing you to use EdgeDB as a data source.
 - [EdgeDB Grafana Frontend](https://github.com/edgedb/edgedb-grafana-frontend) - A Grafana frontend plugin allowing you to fetch data from EdgeDB's HTTP endpoint.
 - [EdgeDB Msgspec Integration](https://jcristharif.com/msgspec/examples/edgedb.html) - Documentation on integrating EdgeDB with the msgspec JSON serialization & validation library.
+- [EdgeDB Lucia-Auth Adapter](https://github.com/JitPackJoyride/lucia-adapter-edgedb) - An adapter for [Lucia-Auth](https://lucia-auth.com/) that utilizes EdgeDB as storage for your authentication and user data.
 
 ## Templates
 - [Create T3-EdgeDB App](https://github.com/PastelStoic/create-t3-edgedb-app) - The [T3 stack](https://init.tips/), but the database of choice is EdgeDB.
