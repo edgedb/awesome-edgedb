@@ -53,6 +53,9 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 - [My experience with EdgeDB](https://divan.dev/posts/edgedb/)
 - [What you should know before choosing EdgeDB for a real production](https://careers.semrush.com/en/blog/what-you-should-know-before-choosing-edgedb-for-a-real-production/)
 
+## Developer Tools
+- [Tree-sitter grammar for EdgeDB's SDL](https://github.com/greym0uth/tree-sitter-esdl)
+
 ## Essentials
 - [Blog](https://www.edgedb.com/blog)
 - [Easy EdgeDB Book](https://www.edgedb.com/easy-edgedb)
