@@ -80,3 +80,8 @@ Want to contribute to the list? Follow the [contributing guide](/CONTRIBUTING.md
 - [EdgeDB 3.0 Launch](https://www.youtube.com/watch?v=bqD5CThzmw4)
 - [EdgeDB Office Hours](https://www.youtube.com/playlist?list=PLhNSoGM2ik6Rd3b5TT1DJzQej8jtcSYGe)
 - [End-to-end type safety](https://www.youtube.com/watch?v=NAbEo2_6Us4&t=2422s)
+
+## Other languages
+
+### Chinese
+- [看無間道學EdgeDB](https://jrycw.github.io/edgedb-ia/): A ten-part course inspired by [Easy EdgeDB](https://www.edgedb.com/easy-edgedb) that follows the story in the 2002 Hong Kong action thriller film Infernal Affairs. [Source code](https://github.com/jrycw/edgedb-ia)
